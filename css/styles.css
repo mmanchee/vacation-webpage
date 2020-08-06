@@ -1,6 +1,8 @@
 #beach {
-  border-radius: 50%;
+  border-radius: 10%;
   float: left;
+  width: 50%;
+  height: auto;
 }
 
 #intro {
