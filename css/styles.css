@@ -1,0 +1,25 @@
+#beach {
+  border-radius: 50%;
+  float: left;
+}
+
+#intro {
+  font-weight: 900;
+  color: cornflowerblue;
+}
+
+.p1 {
+  background-color: aqua;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.p2 {
+  background-color: burlywood;
+  font-family: fantasy;
+}
+
+.activities {
+  font-weight: 700;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  background-color: darkseagreen;
+}
