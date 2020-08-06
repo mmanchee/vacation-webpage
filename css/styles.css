@@ -25,3 +25,22 @@
 .jumbotron {
   
 }
+
+.package-details{
+  font-weight: lighter;
+  font-style: italic;
+}
+
+.package-old-price{
+  color: red;
+  text-decoration-line: line-through;
+}
+
+.package-new-price{
+  color: green;
+  font-size: 22px;
+}
+
+.card-title{
+  font-size: 22px;
+}
