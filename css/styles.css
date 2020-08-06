@@ -3,6 +3,7 @@
   float: left;
   width: 50%;
   height: auto;
+  margin: 0 20px 0 20px;
 }
 
 #intro {
@@ -10,18 +11,17 @@
   color: cornflowerblue;
 }
 
-.p1 {
-  background-color: aqua;
-  font-family: Arial, Helvetica, sans-serif;
-}
-
-.p2 {
-  background-color: burlywood;
-  font-family: fantasy;
+#header {
+  font-weight: 900;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .activities {
   font-weight: 700;
   font-family: Georgia, 'Times New Roman', Times, serif;
   background-color: darkseagreen;
+}
+
+.jumbotron {
+  
 }
