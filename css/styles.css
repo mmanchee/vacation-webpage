@@ -30,3 +30,17 @@
   font-weight: lighter;
   font-style: italic;
 }
+
+.package-old-price{
+  color: red;
+  text-decoration-line: line-through;
+}
+
+.package-new-price{
+  color: green;
+  font-size: 25px;
+}
+
+.card-title{
+  font-size: 25px;
+}
